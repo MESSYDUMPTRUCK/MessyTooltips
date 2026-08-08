@@ -11,6 +11,7 @@ namespace MessyTooltips.Systems
             global::MessyCore.Mod.Log.Info("TooltipOverlaySystem ready");
             global::MessyCore.Mod.Capabilities.Set("tooltips.module", "ready");
             global::MessyCore.Mod.Capabilities.Set("tooltips.diagnostics", global::MessyCore.Mod.Settings.ShowDiagnostics ? "enabled" : "disabled");
+            global::MessyCore.Mod.Capabilities.Set("tooltips.overlays", global::MessyCore.Mod.Settings.EnableTooltipOverlays ? "enabled" : "disabled");
             global::MessyCore.Mod.Diagnostics.SetState("tooltips.module", "ready");
         }
 
@@ -22,7 +23,7 @@ namespace MessyTooltips.Systems
                 return;
             }
             global::MessyCore.Mod.Capabilities.Set("tooltips.runtime", "active");
-            global::MessyCore.Mod.Diagnostics.SetState("tooltips.runtime", "active");
+            global::MessyCore.Mod.Diagnostics.SetState("tooltips.runtime", global::MessyCore.Mod.Settings.EnableTooltipOverlays ? "overlays-active" : "active");
         }
     }
 }
