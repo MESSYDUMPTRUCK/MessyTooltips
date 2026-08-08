@@ -1,0 +1,14 @@
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\obj\Release\net48\MessyTooltips.csproj.AssemblyReference.cache
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\obj\Release\net48\MessyTooltips.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\obj\Release\net48\MessyTooltips.AssemblyInfoInputs.cache
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\obj\Release\net48\MessyTooltips.AssemblyInfo.cs
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\obj\Release\net48\MessyTooltips.csproj.CoreCompileInputs.cache
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\bin\Release\net48\MessyTooltips.dll
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\bin\Release\net48\MessyTooltips.pdb
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\bin\Release\net48\Colossal.Core.dll
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\bin\Release\net48\Colossal.Logging.dll
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\bin\Release\net48\Game.dll
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\bin\Release\net48\Unity.Entities.dll
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\obj\Release\net48\MessyToo.01668617.Up2Date
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\obj\Release\net48\MessyTooltips.dll
+C:\Users\chris\.copilot\repos\MessyPack\MessyTooltips\obj\Release\net48\MessyTooltips.pdb
