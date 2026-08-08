@@ -1,11 +1,11 @@
 {
   "ID": "MessyTooltips",
   "Name": "Messy Tooltips",
-  "ShortDescription": "Tooltip and overlay module for the Messy mod pack.",
-  "Description": "Tooltip and overlay module for the Messy mod pack. Requires Messy Core.",
+  "ShortDescription": "Tooltip and overlay support for the MESSYDUMPTRUCK modular pack.",
+  "Description": "Tooltip and overlay support for the MESSYDUMPTRUCK modular pack. Requires Messy Core.",
   "Author": "MESSYDUMPTRUCK",
   "AuthorID": "messydumptruck",
   "Version": "0.1.0-beta",
   "Dependencies": [ { "ID": 154397, "Name": "Messy Core" } ],
-  "Tags": ["Code Mod"]
+  "Tags": ["Code Mod", "UI"]
 }
